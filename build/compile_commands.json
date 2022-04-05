@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/npl/1039I/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++17 -o CMakeFiles/socket.dir/main.cpp.o -c /home/npl/1039I/main.cpp",
+  "file": "/home/npl/1039I/main.cpp"
+}
+]

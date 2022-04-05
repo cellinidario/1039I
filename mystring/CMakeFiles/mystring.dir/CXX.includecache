@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/npl/1039I/mystring/main.cpp
+iostream
+-
+mystring.hpp
+/home/npl/1039I/mystring/mystring.hpp
+
+/home/npl/1039I/mystring/mystring.hpp
+iostream
+-
+cstring
+-
+
